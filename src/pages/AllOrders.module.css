@@ -1,0 +1,15 @@
+.searchSection{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.searchSection > .searchInput {
+    width: 45%;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    padding: 7px;
+    outline: none;
+    
+
+}

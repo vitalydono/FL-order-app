@@ -1,0 +1,8 @@
+.main {
+  /* width: 90%;
+    max-width: 40rem;  */
+  padding: 10vh;
+  background-image: url("../../assets/orchid.jpeg");
+  background-size: cover;
+  min-height: 92vh;
+}
